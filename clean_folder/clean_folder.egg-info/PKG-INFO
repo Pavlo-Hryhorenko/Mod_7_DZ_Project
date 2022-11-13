@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1.0
+Summary: Сортує задану папку- перевіряє внутрішні вкладення/ Форматує утворюючи нові папки і розархивовує архіви, також переіменовує.
+Author: Pavlo_Hryhorenko
+License-File: LICENSE
